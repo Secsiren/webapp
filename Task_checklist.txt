@@ -1,0 +1,6 @@
+Task 1 Completion Checklist:
+ 
+ Simple web application created and committed to Git.
+ Descriptive commit messages.
+ Pushed to remote Git repository.
+ Added a README.md with project details.
